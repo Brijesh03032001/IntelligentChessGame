@@ -9,7 +9,7 @@ To install and run the app, you will need to have Node.js and npm (the Node.js p
 1. Clone the repository to your local machine:
 
 ```command
-git clone 
+git clone https://github.com/Brijesh03032001/IntelligentChessGame
 ```
 
 2. Navigate to the project directory:
