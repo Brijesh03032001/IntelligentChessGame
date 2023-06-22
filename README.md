@@ -1,6 +1,6 @@
 # Chess Web App [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a responsive web app built in React.js that allows users to play chess against each other or against an AI opponent. The app is styled with Tailwind CSS and uses an external JavaScript engine for the chess logic. The app is online [here](https://elsalvo96.github.io/Chess/).
+This is a responsive web app built in React.js that allows users to play chess against each other or against an AI opponent. The app is styled with Tailwind CSS and uses an external JavaScript engine for the chess logic. 
 
 ## Installation
 
@@ -9,7 +9,7 @@ To install and run the app, you will need to have Node.js and npm (the Node.js p
 1. Clone the repository to your local machine:
 
 ```command
-git clone https://github.com/ElSalvo96/Chess.git
+git clone 
 ```
 
 2. Navigate to the project directory:
